@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    APP_NAME: "myapp"
+    APP_NAME: "angulardemo2"
 phases:
   install:
     runtime-versions:
